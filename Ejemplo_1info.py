@@ -22,7 +22,7 @@ zapatos = {
     3: ["botas", "negro", 25],
     4: ["tenis", "blanco", 20]
 }
-
+#Se creó una lista vacía para almacenar datos 
 compras = []
 
 def capturar_datos_comprador():
