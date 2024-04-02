@@ -92,7 +92,7 @@ def mostrar_factura(compra, datos_comprador):
     
     print("Total de la compra:", calcular_total(compra))
 
-
+#Se definió la función principal
 def main():
     while True:
         
