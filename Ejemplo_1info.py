@@ -1,3 +1,4 @@
+#Se definió diccionarios para los artículos disponibles
 camisetas = {
     1: ["polo", "blanca", 15],
     2: ["polo", "azul", 15],
@@ -5,8 +6,7 @@ camisetas = {
     4: ["polo", "amarilla", 15],
     5: ["cuello redondo", "gris", 12],
     6: ["cuello redondo", "negro", 12],
-    7: ["cuello redondo", "verde", 12]
-}
+    7: ["cuello redondo", "verde", 12]}
 
 jeans = {
     1: ["Azul", 20],
