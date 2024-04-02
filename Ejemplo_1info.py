@@ -59,7 +59,7 @@ def seleccionar_articulo(diccionario):
             print("Por favor, ingrese solo números.")
     return diccionario[seleccion]
 
-
+#Se definió una función para calcular el total de la compra
 def calcular_total(compra):
     
     precios = []
