@@ -74,7 +74,7 @@ def calcular_total(compra):
 
     return total
 
-
+#Se definió una función para mostrar la factura
 def mostrar_factura(compra, datos_comprador):
     print("\nFactura:")
     print("Datos del comprador:")
