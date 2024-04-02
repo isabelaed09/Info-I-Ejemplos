@@ -24,7 +24,7 @@ zapatos = {
 }
 #Se creó una lista vacía para almacenar datos 
 compras = []
-
+#Se definió la función para capturar los datos del comprador 
 def capturar_datos_comprador():
     while True:
         nombre_apellido = input("Ingrese su nombre y apellido: ")
