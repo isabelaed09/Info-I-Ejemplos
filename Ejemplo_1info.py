@@ -121,8 +121,8 @@ def main():
         mostrar_factura(compras, datos_comprador)
 
         
-        otra_compra = input("\n¿Desea hacer otra compra? (sí/no): ")
-        if otra_compra.lower() != "sí":
+        otra_compra = input("\n¿Desea hacer otra compra? (si/no): ")
+        if otra_compra.lower() != "si":
             break
         else:
             compras.clear()
