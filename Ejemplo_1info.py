@@ -39,7 +39,7 @@ def capturar_datos_comprador():
     direccion = input("Ingrese su dirección: ")
     return nombre_apellido, identificacion, direccion, telefono
 
-
+#Se definió una función para seleccionar el tipo de artículo
 def seleccionar_articulo(diccionario):
     while True:
         print("Artículos disponibles:")
